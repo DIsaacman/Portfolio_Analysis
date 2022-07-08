@@ -4,18 +4,18 @@
 
 
  ### Use Google Sheets to easily get price data
-- Make Copy
+- Make Copy [^1]
 - Insert Date and Ticker
 - Export to .CSV 
 - Use Python and PANDAS for Portfolio Analysis and Backtesting. 
 
 
-#### Syntax
+### Syntax
 
 
 
 
-Markup :  `GOOGLEFINANCE(ticker, [attribute], [start_date], [end_date|num_days], [interval])`
+`GOOGLEFINANCE(ticker, [attribute], [start_date], [end_date|num_days], [interval])`
 
 
 
