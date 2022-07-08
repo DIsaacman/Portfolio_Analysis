@@ -13,11 +13,11 @@
 #### Syntax
 
 
-```
 
-GOOGLEFINANCE(ticker, [attribute], [start_date], [end_date|num_days], [interval])
 
-```
+Markup :  `GOOGLEFINANCE(ticker, [attribute], [start_date], [end_date|num_days], [interval])`
+
+
 
 ### Examples
 
