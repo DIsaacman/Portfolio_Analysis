@@ -40,7 +40,7 @@ Gather Data for Currency Pairs - US Dollar and European Euro
 ## ***Note***: For best result, use reference cells in G-Sheets to easily gather information:
 
 
-![Google_Sheets_Data](../Resources/Google_Sheets_Data.png)
+![Google_Sheets_Data](Starter_Code/Resources/Google_Sheets_Data .png)
 
 
-[^1] Here is [an example](https://docs.google.com/spreadsheets/d/1o_s3W20il3u-62fEhyoIMQFb3eignFwtVCyPga1fBwI/edit?usp=sharing) of the google sheet for reference. Make your own copy, download as CSV and start analysing now!
+[^1]: Here is [an example](https://docs.google.com/spreadsheets/d/1o_s3W20il3u-62fEhyoIMQFb3eignFwtVCyPga1fBwI/edit?usp=sharing) of the google sheet for reference. Make your own copy, download as CSV and start analysing now!
