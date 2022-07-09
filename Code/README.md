@@ -15,7 +15,7 @@
 
 
 
-`GOOGLEFINANCE(ticker, [attribute], [start_date], [end_date|num_days], [interval])`
+`GOOGLEFINANCE(ticker, [attribute], [start_date], [end_date|num_days], [interval])` [^2]
 
 
 
@@ -44,3 +44,4 @@ Gather Data for Currency Pairs - US Dollar and European Euro
 
 
 [^1]: Here is [an example](https://docs.google.com/spreadsheets/d/1o_s3W20il3u-62fEhyoIMQFb3eignFwtVCyPga1fBwI/edit?usp=sharing) of the google sheet for reference. Make your own copy, download as CSV and start analysing now!
+[^2]: [Link](https://support.google.com/docs/answer/3093281?hl=en) to official Google Finance Documents.
